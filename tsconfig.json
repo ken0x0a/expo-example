@@ -61,7 +61,7 @@
     "noEmitHelpers": true
   },
   "exclude": [
-    "App.js",
+    "App.ts",
     "App.test.js",
     "build",
     "node_modules"

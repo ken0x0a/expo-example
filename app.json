@@ -7,8 +7,7 @@
         "jsx",
         "ts",
         "tsx"
-      ],
-      "transformer": "node_modules/react-native-typescript-transformer/index.js"
+      ]
     },
     "name": "expo-example",
     "slug": "expo-example",
